@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <link rel="stylesheet" href="FinaleCSS.css">
+    <title>The KoftUni News</title>
+</head>
+<body>
+    <div id="wrapper">
+        <header>
+            <div id="Something">Нещо</div>          
+        </header>
+        <section>
+            <header>#Новинки</header>
+            <article>
+                <header>От КофтУни до стаж в Силиконовата долина</header>
+                <div class="date">30/06/2014</div>
+                <div class="author">Published by: Малкия Буковски</div>
+                <img src="images/yo dawg 4.jpg" alt="calendar" />
+                <div class="text">Първите 10 с 60 % на салфетки и безплатен транспорт до Димитровград!</div>
+                <div class="tags"><span>Tags:</span> #нови висоти #ценностна система #Димитровград #Планета #ПланетаHD</div>
+            </article>
+            <article>
+                <header>КофтУни пуска "Get it while its hot"</header>
+                <div class="date">27/06/2014</div>
+                <div class="author">Published by: Надъхан</div>
+                <img src="images/sad-child.jpg" alt="summer" />
+                <div class="text">Най-нетърпеливите за знания получават домашните си преди всички! + ДВД с рекап.</div>
+                <div class="tags"><span>Тагове:</span> #йеее #дасихепи #меднес</div>
+            </article>
+            <article>
+                <header>Висша Математика "част 4" се мести в Четвъртък</header>
+                <div class="date">23/06/2014</div>
+                <div class="author">Published by: проф.д-р Минчо</div>
+                <img src="images/Bored-to-death-Wallpaper-bored-to-death-8954923-1024-768.jpg" alt="softuni conf" />
+                <div class="text">Промени в графика на Висша Математика "част 5" и "6" няма.</div>
+                <div class="tags"><span>Тагове:</span> #(мало)важно #интеграли #и други такива</div>
+            </article>
+            <article>
+                <header>Адриана Лима започва подготовката си за С# 0</header>
+                <div class="date">18/06/2014</div>
+                <div class="author">Published by: Лилавото Хапче</div>
+                <img src="images/adriana.jpg" alt="calendar" />
+                <div class="text">Има възможност да влезе и без изпит</div>
+                <div class="tags"><span>Tags:</span> #Адриана #новата ни колежка #кандидаствай в софтуни #оплакни око</div>
+            </article>
+            <article>
+                <header>Хаков забелязан на таен култ към "Епъл"</header>
+                <div class="date">16/06/2014</div>
+                <div class="author">Published by: Разследващ Инженер</div>
+                <img src="images/3.gif" alt="calendar" />
+                <div class="text">Основателят на КофтУни прекъснат по време на финалната фаза от ритуала</div>
+                <div class="tags"><span>Tags:</span> #който разбира #тук #се спира #разкрития</div>
+            </article>
+            <article>
+                <header>Има победител в тайната игра на КофтУни - "ЧипЛидер"</header>
+                <div class="date">07/06/2014</div>
+                <div class="author">Published by: Хаков</div>
+                <img src="images/nerd.jpg" alt="calendar" />
+                <div class="text">Той чекирал цели 18 души за лекция,печели нощ в изолатора!</div>
+                <div class="tags"><span>Tags:</span> #печеливш #номер 1 си е номер 1 #изолатор #кеф</div>
+            </article>
+            <footer>
+                <ul>
+                    <li id="hprlink1">1</li>
+                    <li id="hprlink">2</li>
+                    <li id="hprlink">3</li>
+                    <li id="hprlink">4</li>
+                    <li id="hprlink">5</li>
+                    <li id="hprlink">&gt;</li>
+                </ul>
+            </footer>
+        </section>
+    </div>
+</body>
+</html>
+
